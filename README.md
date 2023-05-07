@@ -12,8 +12,8 @@ This app is a simple job search app that uses LinkedIn's API to fetch popular va
 To install and run the app, follow these steps:
 
 1. Clone the repository using git clone https://github.com/deadtowel/findjob-app
-2. Install the required dependencies using npm install
-3. Start the Expo development server using npm start
+2. Install the required dependencies using ```npm install```
+3. Start the Expo development server using ```npm start```
 4. Scan the QR code in the Expo Go app on your device or use an emulator to run the app
 
 ## Usage
